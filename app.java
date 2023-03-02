@@ -1,7 +1,6 @@
- this is great
- great indeed
-developing japa app
-.net application
+ We support;
+ java applications
+ web add services
+.net applications
 NodeJS applications
-python app
-
+python applications
